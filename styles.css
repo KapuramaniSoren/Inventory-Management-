@@ -67,11 +67,11 @@ form.sign-in-form {
 }
 
 .input-field {
-  max-width: 380px;
+  max-width: 350px;
   width: 100%;
   background-color: #f0f0f0;
   margin: 10px 0;
-  height: 55px;
+  height: 40px;
   border-radius: 55px;
   display: grid;
   grid-template-columns: 15% 85%;
@@ -81,7 +81,7 @@ form.sign-in-form {
 
 .input-field i {
   text-align: center;
-  line-height: 55px;
+  line-height: 40px;
   color: #acacac;
   transition: 0.5s;
   font-size: 1.1rem;
@@ -112,8 +112,8 @@ form.sign-in-form {
 }
 
 .social-icon {
-  height: 46px;
-  width: 46px;
+  height: 30px;
+  width: 30px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -132,11 +132,11 @@ form.sign-in-form {
 }
 
 .btn {
-  width: 150px;
+  width: 120px;
   background-color: #a450ae;
   border: none;
   outline: none;
-  height: 49px;
+  height: 45px;
   border-radius: 49px;
   color: #fff;
   text-transform: uppercase;
